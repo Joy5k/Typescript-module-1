@@ -35,10 +35,6 @@
         name: "Mehedi",
         role: "Admin"
     }
-getUser(Admin)
-
-
-
-
+    getUser(Admin)
 
 }
